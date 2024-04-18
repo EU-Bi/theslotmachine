@@ -18,11 +18,7 @@ Publisher: Ritwick Dey
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 ```
 
-4. Запустите LiveServer  в проекте :
-
-    ```bash
-    npm start
-    ```
+4. Запустите LiveServer  в проекте и тестируйте игру
 
 ## Время реализации
 
@@ -33,5 +29,6 @@ VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ritwick
 Просмотрел базовый курс [PIXI.js](https://www.youtube.com/watch?v=hpJGJSE41sY&list=PLU25QJOHLmMOLY9scIbEjmzYCEgkMH8yy) 
 
 Пример для создания Slot Machine нашел на официальном сайте PIXI.js и с кода одного поляка [dhaiduk](https://github.com/dhaiduk/slot-game/tree/master)
+
 
 
